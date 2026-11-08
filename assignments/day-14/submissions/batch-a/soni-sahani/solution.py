@@ -1,8 +1,6 @@
 #assignment 14
 
-from turtle import distance
-
-import pandas as np
+import numpy as np
 
 #Use this customer data:
 
